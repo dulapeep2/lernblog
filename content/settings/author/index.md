@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "My Name"
-image = ""
+name = "dulapeep2"
+image = "/media/bg-bild.webp"
 email = ""
 +++
