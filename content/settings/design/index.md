@@ -1,8 +1,7 @@
 +++
 headless = true
-icon = "/img/default-favicon.png"
+icon = "/media/bg-bild.webp"
 logo = "/img/default-logo.png"
-image = "/img/default-image.jpg"
+image = "/media/milchstrasse.jpg"
 color = "#3d6a7f"
 +++
-
