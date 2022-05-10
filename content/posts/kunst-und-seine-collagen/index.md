@@ -1,7 +1,7 @@
 +++
 title = "Fantasien der Collagen"
 date = "2022-03-29"
-draft = true
+draft = false
 pinned = false
 tags = ["Blog", "Collage", "Art"]
 image = "collage.webp"
