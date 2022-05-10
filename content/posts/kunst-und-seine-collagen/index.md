@@ -1,5 +1,5 @@
 +++
-title = "Fantasien der Collagen"
+title = "Welt der Collagen"
 date = "2022-03-29"
 draft = false
 pinned = false
@@ -21,11 +21,11 @@ Von Anfang an war klar, dass ich eine Collage machen möchte. Schon als Kind hab
 
 Meine Arbeit soll mich und meine Präferenzen widerspiegeln. Ich wollte verschieden Techniken einbeziehen und ich habe meine Lieblingsfarben verwendet. Zudem habe ich mich auch an dem Herzmotiv orientiert. Meine Vorstellung habe ich zuerst skizziert. Jedoch ist das Endprodukt doch anders herausgekommen.
 
-![](img_4536k.jpg "Skizze")
+![Skizze](img_4536k.jpg "Skizze")
 
-![](img_3380k.jpg "Rosa")
+![Rosa](img_3380k.jpg "Rosa")
 
-![](img_3379k.jpg "Lila/Blau")
+![Lila/Blau](img_3379k.jpg "Lila/Blau")
 
 Techniken:
 
@@ -39,17 +39,17 @@ Die Bilder welche ich genommen habe entsprechen den Dingen, die ich mag. Auch be
 
 ##### Prozess
 
-Meine Collage kam auf eine grosse Leinwand. Ich startete mit den Vorarbeiten (Malen mit Acryl auf Leinwand / Farbe auf Papier für Collage). Ich begann mit der ersten Collagenphase und arbeitete mich durch jede Phase durch. Während der ganzen Arbeit habe ich für das aufkleben der einzelnen Collagenelemente Fischkleister verwendet. Gegen Ende war ich mit meiner Anfangsidee nicht mehr zufrieden und habe sie perfekt angepasst. Aus den einzelnen Phasen wurde dann schlussendlich ein Verlauf besser gesagt eine Wiederholung der Technik.
+Meine Collage kam auf eine grosse Leinwand. Ich startete mit den Vorarbeiten (Malen mit Acryl auf Leinwand / Farbe auf Papier für Collage). Ich begann mit der ersten Collagenphase und arbeitete mich durch jede Phase durch. Während der ganzen Arbeit habe ich für das aufkleben der einzelnen Collagenelemente Fisch-Kleister verwendet. Gegen Ende war ich mit meiner Anfangsidee nicht mehr zufrieden und habe sie perfekt angepasst. Aus den einzelnen Phasen wurde dann schlussendlich ein Verlauf besser gesagt eine Wiederholung der Technik.
 
-![](img_3382k.jpg)
+![Vorbereitung/Acryl](img_3382k.jpg)
 
-![](img_3515k.jpg "Erste Phase")
+![Erste Phase](img_3515k.jpg "Erste Phase")
 
 ![Zweite Phase](img_3517k.jpg)
 
-![](img_4169k.jpg "Dritte Phase")
+![Dritte Phase](img_4169k.jpg "Dritte Phase")
 
-![](img_4297k.jpg "Herzmotiv")
+![Herzmotiv](img_4297k.jpg "Herzmotiv")
 
 ![Fisch-Kleister](img_4537k.jpg)
 
@@ -63,6 +63,6 @@ Auf dem Endprodukt habe ich zwei Mal mit Zeitung und Katalogbildern gearbeitet. 
 
 Ich habe mein Ziel von meiner selbstständigen Arbeit definitiv erreicht.
 
-![](img_4170k.jpg "Künstler")
+![Künstler](img_4170k.jpg "Künstler")
 
-![](img_4535k.jpg "Endprodukt")
+![Endprodukt ](img_4535k.jpg "Endprodukt")
